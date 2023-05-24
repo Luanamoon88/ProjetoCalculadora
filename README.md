@@ -1,1 +1,1 @@
-# Olá, esse projeto simula um calculadora
+# Olá, esse projeto simula uma calculadora
